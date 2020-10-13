@@ -1,0 +1,4 @@
+Hi
+This is sample
+Notepad
+I am going to commit
